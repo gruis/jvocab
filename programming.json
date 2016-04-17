@@ -1,0 +1,383 @@
+// http://www.imabi.net/apps/blog/entries/show/24394117-programming-vocabulary
+[
+  {
+    "ja": "捕捉する",
+    "pr": "ほそくする",
+    "en": "catch (exception)"
+  },
+  {
+    "ja": "投げる",
+    "pr": "なげる",
+    "en": "throw (exception)"
+  },
+  {
+    "ja": "例外",
+    "pr": "れいがい",
+    "en": "exception"
+  },
+  {
+    "ja": "値渡し",
+    "pr": "ねわたし",
+    "en": "pass by value"
+  },
+  {
+    "ja": "参照渡し",
+    "pr": "さんしょうわたし",
+    "en": "pass by reference"
+  },
+  {
+    "ja": "渡す",
+    "pr": "わたす",
+    "en": "to pass (argument)"
+  },
+  {
+    "ja": "返り値",
+    "pr": "かえりち",
+    "en": "return value"
+  },
+  {
+    "ja": "返却値",
+    "pr": "へんきゃくち",
+    "en": "return value"
+  },
+  {
+    "ja": "可変長引数",
+    "pr": "かへんちょうひきすう",
+    "en": "variable length argument"
+  },
+  {
+    "ja": "引数",
+    "pr": "ひきすう",
+    "en": "argument"
+  },
+  {
+    "ja": "関数実行時",
+    "pr": "かんすうじっこうじ",
+    "en": "function run time"
+  },
+  {
+    "ja": "無名関数",
+    "pr": "むめいかんすう",
+    "en": "anonymous function"
+  },
+  {
+    "ja": "関数",
+    "pr": "かんすう",
+    "en": "function"
+  },
+  {
+    "ja": "関数名",
+    "pr": "かんすうめい",
+    "en": "function name"
+  },
+  {
+    "ja": "再帰関数",
+    "pr": "さいきかんすう",
+    "en": "recurisve function"
+  },
+  {
+    "ja": "内部関数",
+    "pr": "ないぶかんすう",
+    "en": "internal function"
+  },
+  {
+    "ja": "枠組み",
+    "pr": "わくぐみ",
+    "en": "framework"
+  },
+  {
+    "ja": "空白",
+    "pr": "くうはく",
+    "en": "white space"
+  },
+  {
+    "ja": "一行",
+    "pr": "いっこう",
+    "en": "line"
+  },
+  {
+    "ja": "単一行",
+    "pr": "たんいっこう",
+    "en": "single line"
+  },
+  {
+    "ja": "複数行",
+    "pr": "ふくすうぎょう",
+    "en": "multi-line"
+  },
+  {
+    "ja": "解析",
+    "pr": "かいせき",
+    "en": "parse"
+  },
+  {
+    "ja": "データ構造",
+    "pr": "データこうぞう",
+    "en": "data structure"
+  },
+  {
+    "ja": "宣言",
+    "pr": "せんげん",
+    "en": "declaration (of functions, etc.,)"
+  },
+  {
+    "ja": "変換",
+    "pr": "へんかん",
+    "en": "conversion"
+  },
+  {
+    "ja": "型変換",
+    "pr": "がたへんかん",
+    "en": "type conversion"
+  },
+  {
+    "ja": "既定値",
+    "pr": "きていち",
+    "en": "default value"
+  },
+  {
+    "ja": "括弧",
+    "pr": "かっこ",
+    "en": "parenthesis"
+  },
+  {
+    "ja": "角括弧",
+    "pr": "かくかっこ",
+    "en": "square brackets"
+  },
+  {
+    "ja": "可変長",
+    "pr": "かへんちょう",
+    "en": "variable length"
+  },
+  {
+    "ja": "動的",
+    "pr": "どうてき",
+    "en": "dynamic"
+  },
+  {
+    "ja": "起動",
+    "pr": "きどう",
+    "en": "startup, launch"
+  },
+  {
+    "ja": "起動時",
+    "pr": "きどうじ",
+    "en": "startup time, launch time"
+  },
+  {
+    "ja": "不正",
+    "pr": "ふせい",
+    "en": "invalid (argument, etc.,)"
+  },
+  {
+    "ja": "抽象化レイヤー",
+    "pr": "ちゅうしょうかレイヤー",
+    "en": "abstraction layer"
+  },
+  {
+    "ja": "接続",
+    "pr": "せつぞく",
+    "en": "connection"
+  },
+  {
+    "ja": "修正",
+    "pr": "しゅうせい",
+    "en": "fix (bug fix, etc.,)"
+  },
+  {
+    "ja": "初期化",
+    "pr": "しょきか",
+    "en": "initialization"
+  },
+  {
+    "ja": "値",
+    "pr": "-ち",
+    "en": "value"
+  },
+  {
+    "ja": "整数",
+    "pr": "せいすう",
+    "en": "integer"
+  },
+  {
+    "ja": "文字列",
+    "pr": "もじれつ",
+    "en": "string"
+  },
+  {
+    "ja": "真偽",
+    "pr": "しんぎ",
+    "en": "True/False"
+  },
+  {
+    "ja": "真",
+    "pr": "ま",
+    "en": "true"
+  },
+  {
+    "ja": "偽",
+    "pr": "にせ",
+    "en": "false"
+  },
+  {
+    "ja": "配列",
+    "pr": "はいれつ",
+    "en": "array"
+  },
+  {
+    "ja": "一元配列",
+    "pr": "いちげんはいれつ",
+    "en": "one dimensional array"
+  },
+  {
+    "ja": "二元配列",
+    "pr": "にげんはいれつ",
+    "en": "two dimensional array"
+  },
+  {
+    "ja": "内容型",
+    "pr": "ないようがた",
+    "en": "content type"
+  },
+  {
+    "ja": "変数",
+    "pr": "へんすう",
+    "en": "variable"
+  },
+  {
+    "ja": "変数名",
+    "pr": "へんすうめい",
+    "en": "variable name"
+  },
+  {
+    "ja": "局所変数",
+    "pr": "きょくしょへんすう",
+    "en": "local variable"
+  },
+  {
+    "ja": "環境変数",
+    "pr": "かんきょうへんすう",
+    "en": "environment variable"
+  },
+  {
+    "ja": "定数",
+    "pr": "ていすう",
+    "en": "contant"
+  },
+  {
+    "ja": "定数名",
+    "pr": "ていすうめい",
+    "en": "constant name"
+  },
+  {
+    "ja": "代入",
+    "pr": "だいにゅう",
+    "en": "assignment"
+  },
+  {
+    "ja": "割り当てる",
+    "pr": "わりあてる",
+    "en": "to assigne"
+  },
+  {
+    "ja": "演算",
+    "pr": "えんざん",
+    "en": "operation"
+  },
+  {
+    "ja": "演算子",
+    "pr": "えんざんし",
+    "en": "operator"
+  },
+  {
+    "ja": "演算数",
+    "pr": "えんざんすう",
+    "en": "operand"
+  },
+  {
+    "ja": "演算子の優先順位",
+    "pr": "えんざんすうのゆうせんじゅんい",
+    "en": "operator order of precedence"
+  },
+  {
+    "ja": "足す",
+    "pr": "たす",
+    "en": "add"
+  },
+  {
+    "ja": "引く",
+    "pr": "ひく",
+    "en": "subtract"
+  },
+  {
+    "ja": "掛ける",
+    "pr": "かける",
+    "en": "multiply"
+  },
+  {
+    "ja": "割る",
+    "pr": "わる",
+    "en": "divide"
+  },
+  {
+    "ja": "余り",
+    "pr": "あまり",
+    "en": "remainder"
+  },
+  {
+    "ja": "間接参照",
+    "pr": "かんせつさんしょう",
+    "en": "indirect reference"
+  },
+  {
+    "ja": "参照",
+    "pr": "さんしょう",
+    "en": "reference"
+  },
+  {
+    "ja": "参照先",
+    "pr": "さんしょうさき",
+    "en": "referent"
+  },
+  {
+    "ja": "同等",
+    "pr": "どうとう",
+    "en": "equal"
+  },
+  {
+    "ja": "同一",
+    "pr": "どういつ",
+    "en": "identical"
+  },
+  {
+    "ja": "同一でない",
+    "pr": "どういつでない",
+    "en": "not identical"
+  },
+  {
+    "ja": "-大なり",
+    "pr": "-だいなり",
+    "en": "greater than"
+  },
+  {
+    "ja": "-小なり",
+    "pr": "-こなり",
+    "en": "less than"
+  },
+  {
+    "ja": "以上",
+    "pr": "いじょう",
+    "en": "greater than or equal to"
+  },
+  {
+    "ja": "以下",
+    "pr": "いか",
+    "en": "less than or equal to"
+  },
+  {
+    "ja": "停止条件",
+    "pr": "ていしじょうけん",
+    "en": "stop conditions"
+  }
+]
